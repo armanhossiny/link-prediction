@@ -1,23 +1,23 @@
-* در اینجا تمام سورس ها و کدهای پایان نامه ارشدم رو به اشتراک گذاشتم تا کمکی باشه به افرادی که در حوزه پیشگویی پیوند کار می کنند. روش پیشنهادی ما پیشگویی پیوند منفی برای گراف های وزن دار و بدون وزن ارایه شده است الگوریتم های که پیاده سازی شده:
-CN = Common Neighbors
-JC = Jaccard’s Coefficient
-AA = Adamic Adar
-PA = Preferential Attachment
+## در اینجا تمام سورس ها و کدهای پایان نامه ارشدم رو به اشتراک گذاشتم تا کمکی باشه به افرادی که در حوزه پیشگویی پیوند کار می کنند. روش پیشنهادی ما پیشگویی پیوند منفی برای گراف های وزن دار و بدون وزن ارایه شده است الگوریتم های که پیاده سازی شده:
+* CN = Common Neighbors
+* JC = Jaccard’s Coefficient
+* AA = Adamic Adar
+* PA = Preferential Attachment
 
-DC = Degree Centrality
-EC = Eigenvector Centrality
-CC = Closeness Centrality
-BC = Betweenness Centrality
+* DC = Degree Centrality
+* EC = Eigenvector Centrality
+* CC = Closeness Centrality
+* BC = Betweenness Centrality
 
-RW = Random Walk Betweenness Centrality
-LC = Load Centrality
-BC = Betweenness Centrality
-Ktz = Katz
+* RW = Random Walk Betweenness Centrality
+* LC = Load Centrality
+* BC = Betweenness Centrality
+* Ktz = Katz
 
-ACC = Accuracy
-PRE = Precision
-REC = recall
-F = f-score
+* ACC = Accuracy
+* PRE = Precision
+* REC = recall
+* F = f-score
 
 Line Graph
 ![image](https://user-images.githubusercontent.com/42970068/233489911-98dcb422-5167-4f23-835d-41d884c2bcd7.png)
