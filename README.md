@@ -1,5 +1,7 @@
 # Thesis AI.Ms uni of Kurdestan, Iran
 # link-prediction
+
+# A New Edge Anomaly Detection Based On Negative Link Prediction
 We also proposed a new approach for weighted negative link predictionand a new method for adding the anomolus links into weighted graphs.
 Anomaly detection is a very important and vital task, and it has many applications in various
 fields such as security, health, finance, health care and law enforcement. In recent years, many
@@ -22,7 +24,10 @@ negative link predictionand a new method for adding the anomolus links into weig
 Results show the superiority of the proposed methods. Future works can deploy other link prediction
 algorithms and other graph types.
 
-#روشی جدید برای تشخیص ناهنجاری یال بر اساس پیشگویی پیوند منفی
+Keyword: Anomaly Detection, Anomaly Detection edge, Anomlay Detection Graph, Link prediction, Negative link prediction
+
+# روشی جدید برای تشخیص ناهنجاری یال بر اساس پیشگویی پیوند منفی
+
 تشخیص ناهنجاری در دادهها یک کار بسیار مهم و حیاتی است و کاربردهای زیادی در حوزههای مختلف از جمله امنیت، سلامت، امور
 مالی، مراقبتهای بهداشتی و اجرای قانون دارد. در سالهای اخیر روشهای زیادی برای تشخیص ناهنجاری یا دادههای پرت در مجموعههای
 بدون ساختار دادههای چند بعدی ارائه شده است که بعضی از این روشها روی ساختار گراف متمرکز شدهاند. در این پایان نامه بر روی
@@ -37,4 +42,7 @@ algorithms and other graph types.
 یالهای ناهنجار جوامع بهتری به وجود بیاید و جهت ارزیابی دو الگوریتم برچسب گذاری نامتقارن5و الگوریتم وزندار بهینهسازی شده گروین-
 نیومن مورد استفاده قرار گرفته است. سپس برای تعیین بهبود جوامع از سه تابع کیفیت اجتماعات، ماژولاریتی، کارایی 6و کاوریج ،7استفاده
 میشود البته نیاز به ابداع روشی برای پیشگویی پیوند منفی در گرافهای وزندار و همچنین روشی برای اضافه کردن یالهای ناهنجار به
-گرافهای بدون وزن نیز وجود داشت که انجام شد
+گرافهای بدون وزن نیز وجود داشت که انجام شد.
+
+کلمات کلیدی: تشخیص ناهنجاری، تشخیص ناهنجاری یال، تشخیص ناهنجاری در گراف، پیشگویی پیوند، پیشگویی پیوند منفی
+
