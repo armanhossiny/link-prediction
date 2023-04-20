@@ -18,17 +18,7 @@
 * PRE = Precision
 * REC = recall
 * F = f-score
-
-Line Graph
-![image](https://user-images.githubusercontent.com/42970068/233489911-98dcb422-5167-4f23-835d-41d884c2bcd7.png)
-
-![image](https://user-images.githubusercontent.com/42970068/233490317-11c42520-6d26-4025-a762-81503bacd425.png)
-
-![image](https://user-images.githubusercontent.com/42970068/233490376-8e671529-eb7d-4647-b7ea-28e144fe553b.png)
-
-![image](https://user-images.githubusercontent.com/42970068/233490509-25fe27b0-32d2-483b-984d-0f8644ce4d88.png)
-
-![image](https://user-images.githubusercontent.com/42970068/233490715-6d52aec1-ad5e-45cc-8cda-54fca2fe28ef.png)
+* Line Graph
 
 # Thesis AI.Ms uni of Kurdestan, Iran
 # link-prediction
@@ -78,3 +68,20 @@ Keyword: Anomaly Detection, Anomaly Detection edge, Anomlay Detection Graph, Lin
 
 کلمات کلیدی: تشخیص ناهنجاری، تشخیص ناهنجاری یال، تشخیص ناهنجاری در گراف، پیشگویی پیوند، پیشگویی پیوند منفی
 
+
+### تصاویری از پایان نامه
+![image](https://user-images.githubusercontent.com/42970068/233489911-98dcb422-5167-4f23-835d-41d884c2bcd7.png)
+
+![image](https://user-images.githubusercontent.com/42970068/233490317-11c42520-6d26-4025-a762-81503bacd425.png)
+
+![image](https://user-images.githubusercontent.com/42970068/233490376-8e671529-eb7d-4647-b7ea-28e144fe553b.png)
+
+![image](https://user-images.githubusercontent.com/42970068/233490509-25fe27b0-32d2-483b-984d-0f8644ce4d88.png)
+
+![image](https://user-images.githubusercontent.com/42970068/233490715-6d52aec1-ad5e-45cc-8cda-54fca2fe28ef.png)
+
+![image](https://user-images.githubusercontent.com/42970068/233491249-3ae60ac1-5bdb-4167-80f7-c2410fda4f9a.png)
+
+![image](https://user-images.githubusercontent.com/42970068/233491322-0fff9672-c75b-4e1d-9f48-6abddae9358a.png)
+
+![image](https://user-images.githubusercontent.com/42970068/233491374-339e468e-55fb-484c-ac91-fbe9838f8b3d.png)
